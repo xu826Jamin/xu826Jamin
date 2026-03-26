@@ -1,14 +1,18 @@
 # Hi, I'm Jamin Xu 👋
 
-### Computer Engineering Student | Low-Level Software & Digital Logic Design
-I specialize in bridging the gap between hardware and software, with a focus on C++ game development and FPGA-based digital logic design.
+**Computer Engineering Student | Linux Systems & Open-Source Infrastructure**
+
+I specialize in low-level systems work — Docker image optimization, 
+ROS 2 environments, and Linux infrastructure. 
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** C, C++, Verilog, Python
-- **Hardware/Embedded:** FPGA (Intel/Altera MAX10), DE10-Lite Board, Quartus Prime
-- **Developer Tools:** Git, Makefiles, VS Code, Linux/Unix Environments
+## 🛠 Tech Stack & Tools
+
+- **Languages:** C, C++, Python, Verilog, ARM Assembly
+- **Systems:** Docker, Podman, WSL2, Linux/Unix, ROS 2 Humble
+- **Hardware/Embedded:** FPGA (Intel/Altera MAX10), DE10-Lite, Quartus Prime
+- **Developer Tools:** Git, Makefiles, VS Code, Bash
 
 ---
 
