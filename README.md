@@ -16,19 +16,26 @@ ROS 2 environments, and Linux infrastructure.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### [Digital Logic Design Project 3](https://github.com/xu826Jamin/Digital-Logic-Design-Project-3)
-- Implementation of combinational logic design using Programmable Logic Devices (PLD) and Verilog HDL.
-- Focused on high-fidelity hardware description and integration on the MAX10 FPGA.
+**RoboticsAcademy — GSoC 2025 Contribution (JdeRobot)**
+- Profiling and optimizing the RADI Docker image (47.2 GB baseline)
+- Removed dev/CI tools from Dockerfile.dependencies_humble; 
+  CPU/GPU split analysis identifying ~8 GB saving for non-DL users
+- Demo: Follow Line exercise + docker history analysis + Podman WSL2
 
-#### [Snake Game Project](https://github.com/xu826Jamin/Snake-Game-Project)
-- A classic C++ implementation demonstrating game loop architecture and dynamic memory management.
-- Utilizes object-oriented principles to manage game state and player logic.
+**RobotNavigator**
+- BFS pathfinding engine in C++ with full manual memory management
+- Debugged pointer corruption across hundreds of iterations — 
+  the project that taught me to verify before I ship
 
-#### [Linear Algebra & Data Structures](https://github.com/xu826Jamin/linear-algebra-and-data-structures)
-- A collection of C programs developed for McMaster's Principles of Programming course.
-- Optimized matrix operations and data structure implementations.
+**Digital Logic Design — MAX10 FPGA**
+- Combinational logic implementation in Verilog HDL on DE10-Lite board
+- High-fidelity hardware description using Quartus Prime
+
+**Snake Game**
+- C++ game loop architecture with dynamic memory management
+- Object-oriented state machine for game logic
 
 ### 📫 Let's Connect
 - **LinkedIn:** [www.linkedin.com/in/jaminxu]
