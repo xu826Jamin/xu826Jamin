@@ -12,7 +12,7 @@ McMaster Computer Engineering Co-op student (Level 3, graduating April 2029) and
 
 ## Tools
 
-TypeScript, JavaScript, Python, C++, C, SQL, ARM Assembly, Verilog HDL, MATLAB, Next.js, React, Node.js, Tailwind CSS, Three.js, React Three Fiber, Chrome Extensions (Manifest V3), Git, Docker, Linux, SQLite, Vercel, Playwright, Vite, ESLint, GitLab CI, Anthropic API, Vercel AI SDK, MediaPipe, Shopify, Resend, LTspice, Quartus Prime, Analog Discovery 3
+TypeScript, JavaScript, Python, C++, C, SQL, Next.js, React, Node.js, Three.js, Git, Docker, Linux, Verilog
 
 ## Contact
 
